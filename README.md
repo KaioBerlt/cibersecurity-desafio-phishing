@@ -20,4 +20,4 @@
 
 ### Resutados
 
-![imgdio](https://github.com/KaioBerlt/cibersecurity-desafio-phishing/assets/116770883/ff2200f1-46f0-48de-b0ee-ccd6f6f0eb7f)
+
