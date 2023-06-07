@@ -15,7 +15,9 @@
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
+- ![Anotação 2023-06-07 152458](https://github.com/KaioBerlt/cibersecurity-desafio-phishing/assets/116770883/89099518-a2cd-4e6f-a620-9fe9a5d41d3e)
+
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![imgdio](https://github.com/KaioBerlt/cibersecurity-desafio-phishing/assets/116770883/ff2200f1-46f0-48de-b0ee-ccd6f6f0eb7f)
